@@ -1,24 +1,7 @@
-# README
+# Routes with Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1. haz fork a este repositorio
+1. clonalo en tu pc
+1. modificalo como quieras
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Muchas Gracias
